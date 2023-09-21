@@ -1,4 +1,4 @@
-# TALLER 3: MICROFRAMEWORKS WEB
+# Bono Parcial
 
 Estas instrucciones te ayudarán a obtener una copia del proyecto en funcionamiento en tu máquina local para desarrollo y pruebas. Consulta la sección de "Despliegue" para obtener notas sobre cómo implementar el proyecto en un sistema en vivo.
 
